@@ -21,7 +21,7 @@ This paper introduces a deterministic, economic framework to solve the Fermi Par
 ## 1. The Negative ROI of Interstellar Warfare
 The primary reason we observe no physical aftermath of galactic battles (shattered planets, artificial debris fields, or dyson-sphere weapons) is that interstellar war is a mathematical economic failure. 
 
-* **The Inefficiency of Distance:** Launching massive kinetic payloads or fleet armadas across light-years requires immense energy investments for zero guaranteed return.
+* **The Inefficiency of Distance:** Launching massive kinetic payloads or fleets across light-years requires immense energy investments for zero guaranteed return.
 * **The Path of Least Resistance:** If an advanced civilization requires raw matter or energy, it is always exponentially cheaper to mine one of the billions of empty, undefended asteroids, comets, or rogue planets drifting in the void than it is to launch a hostile invasion against an armed, sovereign species. 
 
 ---
@@ -38,7 +38,7 @@ The mainstream expectation that we should find vast, terraformed solar systems s
 We do not detect extraterrestrial radio waves or laser leakage because advanced communications rapidly evolve past omnidirectional electromagnetic signals.
 
 * **Information Security:** As a civilization matures, leaking loud radio signals into open space is abandoned in favor of highly localized, secure channels.
-* **Sub-Space Architecture:** Advanced communication relies on stabilized quantum infrastructures (such as leveraged ER=EPR connections), allowing instant data transmission without radio-wave bleeding. Their networks are entirely quiet to external, primitive radio telescopes.
+* **Sub-Space Architecture:** Advanced communication relies on stabilized quantum infrastructures (such as leveraged ER=EPR connections), allowing near instant data transmission without radio-wave bleeding. Their networks are entirely quiet to external, primitive radio telescopes.
 
 ---
 
